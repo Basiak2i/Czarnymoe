@@ -1,0 +1,23 @@
+nav {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.sala {
+  border: 1px solid black;
+}
+
+aside {
+  border: 1px solid black;
+}
+
+.nawigacja {
+  border: 1px solid black;
+}
+
+.podsumowanie {
+  border: 1px solid black;
+}
